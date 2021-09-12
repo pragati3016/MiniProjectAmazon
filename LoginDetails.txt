@@ -1,0 +1,11 @@
+#/////Login Details/////
+
+URL=https://www.amazon.in/
+
+#/////Username/////
+
+Username=9834255803
+
+#/////Password/////
+
+Password=Prag@161099
